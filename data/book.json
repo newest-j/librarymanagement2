@@ -1,0 +1,275 @@
+[
+    {
+      "title": "Don't Make Me Think",
+      "cover_url": "https://covers.openlibrary.org/b/id/10523354-L.jpg",
+      "author": "Steve Krug",
+      "description": "A classic on web usability and human-centered design.",
+      "read_link": "https://openlibrary.org/works/OL362131W/Don't_Make_Me_Think"
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "cover_url": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+      "author": "Don Norman",
+      "description": "Insights into human-centered product design.",
+      "read_link": "https://openlibrary.org/works/OL362130W/The_Design_of_Everyday_Things"
+    },
+    {
+      "title": "Sprint",
+      "cover_url": "https://covers.openlibrary.org/b/id/8114155-L.jpg",
+      "author": "Jake Knapp",
+      "description": "A 5-day process for solving problems and testing ideas.",
+      "read_link": "https://openlibrary.org/worksA/OL362132W/Sprint"
+    },
+    {
+      "title": "Lean UX",
+      "cover_url": "https://covers.openlibrary.org/b/id/8706985-L.jpg",
+      "author": "Jeff Gothelf",
+      "description": "Collaborative design methods for modern products.",
+      "read_link": "https://openlibrary.org/works/OL362133W/Lean_UX"
+    },
+    {
+      "title": "Learning React",
+      "cover_url": "https://covers.openlibrary.org/b/id/8775111-L.jpg",
+      "author": "Alex Banks",
+      "description": "A practical guide to modern React development.",
+      "read_link": "https://openlibrary.org/works/OL362134W/Learning_React"
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "cover_url": "https://covers.openlibrary.org/b/id/8225266-L.jpg",
+      "author": "Robert Kiyosaki",
+      "description": "Personal finance lessons from two different fathers.",
+      "read_link": "https://openlibrary.org/works/OL362135W/Rich_Dad_Poor_Dad"
+    },
+    {
+      "title": "Atomic Habits",
+      "cover_url": "https://covers.openlibrary.org/b/id/10572707-L.jpg",
+      "author": "James Clear",
+      "description": "An easy way to build good habits and break bad ones.",
+      "read_link": "https://openlibrary.org/works/OL362136W/Atomic_Habits"
+    },
+    {
+      "title": "Deep Work",
+      "cover_url": "https://covers.openlibrary.org/b/id/8275721-L.jpg",
+      "author": "Cal Newport",
+      "description": "Rules for focused success in a distracted world.",
+      "read_link": "https://openlibrary.org/works/OL362137W/Deep_Work"
+    },
+    {
+      "title": "Start with Why",
+      "cover_url": "https://covers.openlibrary.org/b/id/7112823-L.jpg",
+      "author": "Simon Sinek",
+      "description": "Leaders inspire action by focusing on their purpose.",
+      "read_link": "https://openlibrary.org/works/OL362138W/Start_with_Why"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "cover_url": "https://covers.openlibrary.org/b/id/8231855-L.jpg",
+      "author": "Stephen R. Covey",
+      "description": "Powerful habits for personal and professional success.",
+      "read_link": "https://openlibrary.org/works/OL362139W/The_7_Habits_of_Highly_Effective_People"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "cover_url": "https://covers.openlibrary.org/b/id/8373222-L.jpg",
+      "author": "Daniel Kahneman",
+      "description": "Explores the two systems of thought that drive decisions.",
+      "read_link": "https://openlibrary.org/works/OL362140W/Thinking,_Fast_and_Slow"
+    },
+    {
+      "title": "The Lean Startup",
+      "cover_url": "https://covers.openlibrary.org/b/id/7478941-L.jpg",
+      "author": "Eric Ries",
+      "description": "Building startups through continuous innovation.",
+      "read_link": "https://openlibrary.org/works/OL362141W/The_Lean_Startup"
+    },
+    {
+      "title": "Zero to One",
+      "cover_url": "https://covers.openlibrary.org/b/id/8226191-L.jpg",
+      "author": "Peter Thiel",
+      "description": "Notes on startups, innovation, and the future.",
+      "read_link": "https://openlibrary.org/works/OL362142W/Zero_to_One"
+    },
+    {
+      "title": "Hooked",
+      "cover_url": "https://covers.openlibrary.org/b/id/9258431-L.jpg",
+      "author": "Nir Eyal",
+      "description": "How to build habit-forming products.",
+      "read_link": "https://openlibrary.org/works/OL362143W/Hooked"
+    },
+    {
+      "title": "Grit",
+      "cover_url": "https://covers.openlibrary.org/b/id/8168302-L.jpg",
+      "author": "Angela Duckworth",
+      "description": "The power of passion and perseverance.",
+      "read_link": "https://openlibrary.org/works/OL362144W/Grit"
+    },
+    {
+      "title": "The Power of Now",
+      "cover_url": "https://covers.openlibrary.org/b/id/8232010-L.jpg",
+      "author": "Eckhart Tolle",
+      "description": "A guide to spiritual enlightenment and living in the present.",
+      "read_link": "https://openlibrary.org/works/OL362145W/The_Power_of_Now"
+    },
+    {
+      "title": "Outliers",
+      "cover_url": "https://covers.openlibrary.org/b/id/7235151-L.jpg",
+      "author": "Malcolm Gladwell",
+      "description": "The story of success beyond hard work.",
+      "read_link": "https://openlibrary.org/works/OL362146W/Outliers"
+    },
+    {
+      "title": "Dare to Lead",
+      "cover_url": "https://covers.openlibrary.org/b/id/9162025-L.jpg",
+      "author": "Brené Brown",
+      "description": "Courageous leadership in a challenging world.",
+      "read_link": "https://openlibrary.org/works/OL362147W/Dare_to_Lead"
+    },
+    {
+      "title": "Educated",
+      "cover_url": "https://covers.openlibrary.org/b/id/9155077-L.jpg",
+      "author": "Tara Westover",
+      "description": "A memoir of growing up and self-education.",
+      "read_link": "https://openlibrary.org/works/OL362148W/Educated"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "cover_url": "https://covers.openlibrary.org/b/id/8232005-L.jpg",
+      "author": "Mark Manson",
+      "description": "A counterintuitive approach to living a good life.",
+      "read_link": "https://openlibrary.org/works/OL362149W/The_Subtle_Art_of_Not_Giving_a_F*ck"
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "cover_url": "https://covers.openlibrary.org/b/id/8181271-L.jpg",
+      "author": "Dale Carnegie",
+      "description": "A timeless guide to people skills and building relationships.",
+      "read_link": "https://openlibrary.org/works/OL362150W/How_to_Win_Friends_and_Influence_People"
+    },
+    {
+      "title": "The 4-Hour Workweek",
+      "cover_url": "https://covers.openlibrary.org/b/id/8231719-L.jpg",
+      "author": "Timothy Ferriss",
+      "description": "Escape the 9-5, live anywhere, and join the new rich.",
+      "read_link": "https://openlibrary.org/works/OL362151W/The_4-Hour_Workweek"
+    },
+    {
+      "title": "The Richest Man in Babylon",
+      "cover_url": "https://covers.openlibrary.org/b/id/9196602-L.jpg",
+      "author": "George S. Clason",
+      "description": "Financial wisdom from ancient Babylon.",
+      "read_link": "https://openlibrary.org/works/OL362152W/The_Richest_Man_in_Babylon"
+    },
+    {
+      "title": "Principles",
+      "cover_url": "https://covers.openlibrary.org/b/id/8225311-L.jpg",
+      "author": "Ray Dalio",
+      "description": "The guiding principles that have led to Ray Dalio's success.",
+      "read_link": "https://openlibrary.org/works/OL362153W/Principles"
+    },
+    {
+      "title": "You Are a Badass",
+      "cover_url": "https://covers.openlibrary.org/b/id/8139353-L.jpg",
+      "author": "Jen Sincero",
+      "description": "How to stop doubting your greatness and start living an awesome life.",
+      "read_link": "https://openlibrary.org/works/OL362154W/You_Are_a_Badass"
+    },
+    {
+      "title": "The Alchemist",
+      "cover_url": "https://covers.openlibrary.org/b/id/7311111-L.jpg",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about following your dreams.",
+      "read_link": "https://openlibrary.org/works/OL362155W/The_Alchemist"
+    },
+    {
+      "title": "The Psychology of Money",
+      "cover_url": "https://covers.openlibrary.org/b/id/8258124-L.jpg",
+      "author": "Morgan Housel",
+      "description": "Timeless lessons on wealth, greed, and happiness.",
+      "read_link": "https://openlibrary.org/works/OL362156W/The_Psychology_of_Money"
+    },
+    {
+      "title": "The Art of War",
+      "cover_url": "https://covers.openlibrary.org/b/id/10582374-L.jpg",
+      "author": "Sun Tzu",
+      "description": "A treatise on strategy and military tactics.",
+      "read_link": "https://openlibrary.org/works/OL362157W/The_Art_of_War"
+    },
+    {
+      "title": "The Secret",
+      "cover_url": "https://covers.openlibrary.org/b/id/8266792-L.jpg",
+      "author": "Rhonda Byrne",
+      "description": "A self-help book focusing on the law of attraction.",
+      "read_link": "https://openlibrary.org/works/OL362158W/The_Secret"
+    },
+    {
+      "title": "The Magic of Thinking Big",
+      "cover_url": "https://covers.openlibrary.org/b/id/8266951-L.jpg",
+      "author": "David J. Schwartz",
+      "description": "The key to unlocking personal and professional success.",
+      "read_link": "https://openlibrary.org/works/OL362159W/The_Magic_of_Thinking_Big"
+    },
+    {
+      "title": "The Art of Happiness",
+      "cover_url": "https://covers.openlibrary.org/b/id/8205569-L.jpg",
+      "author": "Dalai Lama",
+      "description": "A guide to living a happier and more fulfilled life.",
+      "read_link": "https://openlibrary.org/works/OL362160W/The_Art_of_Happiness"
+    },
+    {
+      "title": "The Lean Product Playbook",
+      "cover_url": "https://covers.openlibrary.org/b/id/8274923-L.jpg",
+      "author": "Dan Olsen",
+      "description": "How to build products that customers love.",
+      "read_link": "https://openlibrary.org/works/OL362161W/The_Lean_Product_Playbook"
+    },
+    {
+      "title": "Blink",
+      "cover_url": "https://covers.openlibrary.org/b/id/11224276-L.jpg",
+      "author": "Malcolm Gladwell",
+      "description": "The power of thinking without thinking.",
+      "read_link": "https://openlibrary.org/works/OL362162W/Blink"
+    },
+    {
+      "title": "The Four Agreements",
+      "cover_url": "https://covers.openlibrary.org/b/id/7663525-L.jpg",
+      "author": "Don Miguel Ruiz",
+      "description": "A practical guide to personal freedom.",
+      "read_link": "https://openlibrary.org/works/OL362163W/The_Four_Agreements"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "cover_url": "https://covers.openlibrary.org/b/id/7337489-L.jpg",
+      "author": "Viktor E. Frankl",
+      "description": "Finding meaning in life through suffering.",
+      "read_link": "https://openlibrary.org/works/OL362164W/Man's_Search_for_Meaning"
+    },
+    {
+      "title": "The 48 Laws of Power",
+      "cover_url": "https://covers.openlibrary.org/b/id/7348921-L.jpg",
+      "author": "Robert Greene",
+      "description": "A guide to mastering the dynamics of power.",
+      "read_link": "https://openlibrary.org/works/OL362165W/The_48_Laws_of_Power"
+    },
+    {
+      "title": "The War of Art",
+      "cover_url": "https://covers.openlibrary.org/b/id/12310485-L.jpg",
+      "author": "Steven Pressfield",
+      "description": "Overcoming creative resistance.",
+      "read_link": "https://openlibrary.org/works/OL362166W/The_War_of_Art"
+    },
+    {
+      "title": "Drive",
+      "cover_url": "https://covers.openlibrary.org/b/id/8392207-L.jpg",
+      "author": "Daniel H. Pink",
+      "description": "The surprising truth about what motivates us.",
+      "read_link": "https://openlibrary.org/works/OL362167W/Drive"
+    },
+    {
+      "title": "The 5 AM Club",
+      "cover_url": "https://covers.openlibrary.org/b/id/8970909-L.jpg",
+      "author": "Robin Sharma",
+      "description": "Own your morning, elevate your life.",
+      "read_link": "https://openlibrary.org/works/OL362168W/The_5_AM_Club"
+    }
+  ]

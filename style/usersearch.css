@@ -1,0 +1,72 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  .sidebar {
+    background-color: #1f1f1f;
+    min-height: 100vh;
+    padding: 2rem 1rem;
+    box-shadow: 2px 0 8px rgba(0,0,0,0.5);
+  }
+  .sidebar a {
+    display: block;
+    color: #bbb;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .sidebar a:hover {
+    background-color: #333;
+    color: #fff;
+    border-radius: 8px;
+  }
+  .topbar {
+    background: linear-gradient(90deg, #333, #555);
+    padding: 1rem;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 2rem;
+  }
+  .topbar select,
+  .topbar input {
+    background-color: #333;
+    border: none;
+    color: #fff;
+  }
+  .topbar select:focus,
+  .topbar input:focus {
+    background-color: #444;
+    border: none;
+    color: #fff;
+    box-shadow: none;
+  }
+ 
+  .status-badge {
+    padding: 0.3rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+  }
+  .badge-in-shelf {
+    background-color: #28a745;
+    color: white;
+  }
+  .badge-borrowed {
+    background-color: #ffc107;
+    color: #121212;
+  }
+  .preview-btn {
+    background-color: transparent;
+    border: 1px solid #bbb;
+    color: #bbb;
+    padding: 0.3rem 0.8rem;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    transition: all 0.3s ease;
+  }
+  .preview-btn:hover {
+    background-color: #555;
+    color: #fff;
+    border-color: #fff;
+  }
+ 

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>usersearch</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="/style/usersearch.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <!-- Sidebar -->
+            <div class="col-md-2 sidebar d-flex flex-column">
+                <h4 class="mb-4 text-danger">Libra</h4>
+                <a href="userdashboard.html">Home</a>
+                <a href="usersearch.html">Search</a>
+                <a href="usershelf.html">My Shelf</a>
+                <a href="useraccount.html">My Account</a>
+                <button id="signout" class="btn btn-primary">Signout</button>
+            </div>
+
+            <!-- Main Content -->
+            <div class="col-md-10">
+
+                <!-- Topbar -->
+                <div class="topbar d-flex justify-content-between align-items-center flex-wrap">
+                    <div class="d-flex align-items-center gap-3 mb-2 ">
+                        <select id="categorySelect" class="form-select form-select-sm w-auto">
+                            <option>select the category</option>
+                            <option value="fiction" id="science_fiction">fiction</option>
+                            <option value="fantasy" id="fantasy">fantasy</option>
+                            <option value="romance" id="romance">romance</option>
+                            <option value="mystery" id="mystery">mystery</option>
+                            <option value="thriller" id="thriller">thriller</option>
+                            <option value="historical_fiction" id="historical_fiction">historical_fiction</option>
+                            <option value="education" id="education">education</option>
+                            <option value="religion" id="religion">religion</option>
+                            <option value="art" id="art">art</option>
+                        </select>
+                        <input id="searchInput" type="text" class="form-control form-control-sm" placeholder="Search"
+                            style="width:200px;">
+                       
+                       
+                    </div>
+
+                    <div class="d-flex align-items-center gap-3">
+                        <span id="date"></span>
+                        <img id="headerimage" src="" class="rounded-circle" width="40" height="40" alt="Profile">
+                    </div>
+                </div>
+
+                <!-- Table -->
+                <div class="table-responsive">
+                    <table id="table" class="table table-dark table-hover table-striped align-middle">
+                        <thead>
+                            <tr>
+                                
+                                <th>Title</th>
+                                <th>Author</th>
+                                <th>Availability</th>
+                                <th></th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                         <!-- send the data here from js -->
+
+                          <!-- at more rows if needed  -->
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<script src="/script/usersearch.js" type="module"></script>
+</body>
+
+</html>

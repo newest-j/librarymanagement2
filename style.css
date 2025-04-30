@@ -1,0 +1,62 @@
+:root {
+    --text-color: white;
+    --background-color: #0c0c0c;
+    --content-color: #0d1717;
+    --content-color2: #011222;
+}
+
+.row {
+    background-color: var(--content-color2);
+    border-bottom-left-radius: 500px;
+    border-top-left-radius: 100px;
+
+    width: 500px;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+#header {
+    background-color: var(--content-color);
+}
+
+.card {
+    box-shadow: 0px 0px 5px #ffffff;
+}
+
+
+
+@media (max-width: 992px) {
+    #header .d-flex {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .row {
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        width: 100%;
+    }
+
+    .firstbox {
+        padding-left: 0px !important;
+    }
+
+    #box {
+        margin-top: 2rem;
+    }
+
+    #card {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+
+}
+.sticky-custom {
+    z-index: 1;
+    background-color: var(--background-color)
+}

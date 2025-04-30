@@ -1,0 +1,33 @@
+[
+    {
+      "id": "id-1",
+      "userName": "Joshua",
+      "email": "ibukunagbaoye@gmail.com",
+      "password": "adminpass",
+      "role": "admin",
+      "borrowedBooks": [],
+      "savedBooks": [],
+      "booksRead": []
+    },
+    {
+      "id": "id-2",
+      "userName": "JohnDoe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "role": "librarian",
+      "borrowedBooks": [],
+      "savedBooks": [],
+      "booksRead": []
+    },
+    {
+      "id": "id-3",
+      "userName": "JaneSmith",
+      "email": "jane.smith@example.com",
+      "password": "password123",
+      "role": "member",
+      "borrowedBooks": [],
+      "savedBooks": [],
+      "booksRead": []
+    }
+  ]
+  
