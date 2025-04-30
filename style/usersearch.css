@@ -69,4 +69,59 @@ body {
     color: #fff;
     border-color: #fff;
   }
+
+
+  @media screen and (max-width: 764px) {
+    #sidebar {
+      position: sticky;
+      top: 0; 
+      flex-direction: row !important;
+      min-height: 0vh;
+      flex-wrap: wrap;
+    }
+    #sidebar h4{
+      margin-right: 20px;
+      margin-top: 5px;
+    }
+    #sidebar button{
+      padding: 0px 1px;
+     
+    }
+  
+    #sidebar a {
+      margin-right: 1rem;
+    }
+  }
  
+  @media screen and (max-width: 768px) {
+    td {
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+  
+    tr {
+      display: block;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid #333;
+      padding-bottom: 1rem;
+    }
+  
+    .status-badge, .borrow-btn, .preview-btn {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .book-title {
+      display: inline-block;
+      word-wrap: break-word;
+      white-space: normal;
+    }
+
+    
+  }
+
+
+
+  
+  

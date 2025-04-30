@@ -53,3 +53,25 @@ body {
     background-color: black;
     color:white
 }
+@media screen and (max-width: 764px) {
+  #sidebar {
+    position: sticky;
+    top: 0; 
+    flex-direction: row !important;
+    min-height: 0vh;
+    flex-wrap: wrap;
+  }
+  #sidebar h4{
+    margin-right: 20px;
+    margin-top: 5px;
+  }
+  #sidebar button{
+    padding: 0px 1px;
+   
+  }
+
+  #sidebar a {
+    margin-right: 1rem;
+  }
+ 
+}

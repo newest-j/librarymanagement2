@@ -39,7 +39,7 @@ function displayBooks(bookList) {
         row.innerHTML = `
             <td class="d-flex align-items-center gap-3">
                 <img src="${book.coverURL}" width="50" class="rounded" alt="Book">
-                ${book.title}
+                 <span class="book-title">${book.title}</span>
             </td>
             <td>${book.author}</td>
             <td>
